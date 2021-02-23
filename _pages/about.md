@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is my personal page.
+I am a PhD student of NLP and Digital Humanities at the [UniOr NLP Research Group](https://sites.google.com/view/unior-nlp-research-group) at University of Naples L'Orientale.
